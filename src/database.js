@@ -1,7 +1,7 @@
 module.exports = {
   "0": {
     "name": "Chunky Monkey3"
-    birthday": "3-18"
+     birthday": "3-18"
   },
   "1": {
     "name": "Chunky Monkey1"
