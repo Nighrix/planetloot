@@ -27,7 +27,7 @@ app.get('/api/token/:token_id', function(req, res) {
   const data = {
     'name': person.name,
     'attributes': {
-     // 'birthday': person.birthday,
+     'birthday': person.birthday,
      // 'birth month': monthName(month),
      // 'zodiac sign': zodiac(day, month),
        //'age': moment().diff(person.birthday, 'years')
