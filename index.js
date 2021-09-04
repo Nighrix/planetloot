@@ -31,8 +31,8 @@ app.get('/api/token/:token_id', function(req, res) {
       'birth month': monthName(month),
       'zodiac sign': zodiac(day, month),
       // 'age': moment().diff(person.birthday, 'years')
-    },
-    'image': `${HOST}/images/${tokenId}.png`
+    },           //images/
+    'image': `${HOST}/${tokenId}.png`
   }
   res.send(data)
 })
