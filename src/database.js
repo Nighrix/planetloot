@@ -4,7 +4,7 @@ module.exports = {
     "birthday": "3-18"
   },
   "1": {
-    "name": "Chunky Monkey",
+    "name": "Chunky Monkey1",
     "birthday": "10-18"
   },
   "2": {
