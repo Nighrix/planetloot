@@ -1,35 +1,35 @@
 module.exports = {
 "0": {
   "name": "HorseWithHats #0",
-  "color": "Black"
+  "color": "Grey"
 },
 "1": {
   "name": "HorseWithHats #1",
-  "color": "Brown"
+  "color": "Grey"
 },
 "2": {
   "name": "HorseWithHats #2",
-  "color": "Black"
+  "color": "Grey"
 },
 "3": {
   "name": "HorseWithHats #3",
-  "color": "Grey"
+  "color": "White"
 },
 "4": {
   "name": "HorseWithHats #4",
-  "color": "Grey"
+  "color": "White"
 },
 "5": {
   "name": "HorseWithHats #5",
-  "color": "White"
+  "color": "Grey"
 },
 "6": {
   "name": "HorseWithHats #6",
-  "color": "White"
+  "color": "Brown"
 },
 "7": {
   "name": "HorseWithHats #7",
-  "color": "Brown"
+  "color": "Black"
 },
 "8": {
   "name": "HorseWithHats #8",
@@ -37,11 +37,11 @@ module.exports = {
 },
 "9": {
   "name": "HorseWithHats #9",
-  "color": "White"
+  "color": "Black"
 },
 "10": {
   "name": "HorseWithHats #10",
-  "color": "Brown"
+  "color": "Black"
 },
 "11": {
   "name": "HorseWithHats #11",
@@ -49,27 +49,27 @@ module.exports = {
 },
 "12": {
   "name": "HorseWithHats #12",
-  "color": "BrightBrown"
+  "color": "Black"
 },
 "13": {
   "name": "HorseWithHats #13",
-  "color": "BrightBrown"
+  "color": "White"
 },
 "14": {
   "name": "HorseWithHats #14",
-  "color": "Grey"
+  "color": "Black"
 },
 "15": {
   "name": "HorseWithHats #15",
-  "color": "Brown"
+  "color": "Grey"
 },
 "16": {
   "name": "HorseWithHats #16",
-  "color": "BrightBrown"
+  "color": "Grey"
 },
 "17": {
   "name": "HorseWithHats #17",
-  "color": "Grey"
+  "color": "Brown"
 },
 "18": {
   "name": "HorseWithHats #18",
@@ -81,39 +81,39 @@ module.exports = {
 },
 "20": {
   "name": "HorseWithHats #20",
-  "color": "Brown"
+  "color": "White"
 },
 "21": {
   "name": "HorseWithHats #21",
-  "color": "Grey"
+  "color": "White"
 },
 "22": {
   "name": "HorseWithHats #22",
-  "color": "Black"
+  "color": "White"
 },
 "23": {
   "name": "HorseWithHats #23",
-  "color": "Black"
+  "color": "Brown"
 },
 "24": {
   "name": "HorseWithHats #24",
-  "color": "Black"
+  "color": "White"
 },
 "25": {
   "name": "HorseWithHats #25",
-  "color": "Black"
+  "color": "White"
 },
 "26": {
   "name": "HorseWithHats #26",
-  "color": "Grey"
+  "color": "White"
 },
 "27": {
   "name": "HorseWithHats #27",
-  "color": "White"
+  "color": "Brown"
 },
 "28": {
   "name": "HorseWithHats #28",
-  "color": "BrightBrown"
+  "color": "Black"
 },
 "29": {
   "name": "HorseWithHats #29",
@@ -129,63 +129,63 @@ module.exports = {
 },
 "32": {
   "name": "HorseWithHats #32",
-  "color": "Black"
+  "color": "Brown"
 },
 "33": {
   "name": "HorseWithHats #33",
-  "color": "BrightBrown"
+  "color": "Brown"
 },
 "34": {
   "name": "HorseWithHats #34",
-  "color": "White"
+  "color": "BrightBrown"
 },
 "35": {
   "name": "HorseWithHats #35",
-  "color": "BrightBrown"
+  "color": "Black"
 },
 "36": {
   "name": "HorseWithHats #36",
-  "color": "BrightBrown"
+  "color": "White"
 },
 "37": {
   "name": "HorseWithHats #37",
-  "color": "White"
+  "color": "Black"
 },
 "38": {
   "name": "HorseWithHats #38",
-  "color": "White"
+  "color": "BrightBrown"
 },
 "39": {
   "name": "HorseWithHats #39",
-  "color": "Grey"
+  "color": "Brown"
 },
 "40": {
   "name": "HorseWithHats #40",
-  "color": "Brown"
+  "color": "White"
 },
 "41": {
   "name": "HorseWithHats #41",
-  "color": "Grey"
+  "color": "Brown"
 },
 "42": {
   "name": "HorseWithHats #42",
-  "color": "Grey"
+  "color": "Brown"
 },
 "43": {
   "name": "HorseWithHats #43",
-  "color": "Brown"
+  "color": "Grey"
 },
 "44": {
   "name": "HorseWithHats #44",
-  "color": "Brown"
+  "color": "BrightBrown"
 },
 "45": {
   "name": "HorseWithHats #45",
-  "color": "Grey"
+  "color": "BrightBrown"
 },
 "46": {
   "name": "HorseWithHats #46",
-  "color": "BrightBrown"
+  "color": "Black"
 },
 "47": {
   "name": "HorseWithHats #47",
@@ -193,35 +193,35 @@ module.exports = {
 },
 "48": {
   "name": "HorseWithHats #48",
-  "color": "Black"
+  "color": "Brown"
 },
 "49": {
   "name": "HorseWithHats #49",
-  "color": "Black"
+  "color": "Grey"
 },
 "50": {
   "name": "HorseWithHats #50",
-  "color": "Brown"
+  "color": "Grey"
 },
 "51": {
   "name": "HorseWithHats #51",
-  "color": "Black"
+  "color": "Grey"
 },
 "52": {
   "name": "HorseWithHats #52",
-  "color": "White"
+  "color": "BrightBrown"
 },
 "53": {
   "name": "HorseWithHats #53",
-  "color": "BrightBrown"
+  "color": "Brown"
 },
 "54": {
   "name": "HorseWithHats #54",
-  "color": "White"
+  "color": "Grey"
 },
 "55": {
   "name": "HorseWithHats #55",
-  "color": "Grey"
+  "color": "BrightBrown"
 },
 "56": {
   "name": "HorseWithHats #56",
@@ -229,39 +229,39 @@ module.exports = {
 },
 "57": {
   "name": "HorseWithHats #57",
-  "color": "Brown"
+  "color": "Grey"
 },
 "58": {
   "name": "HorseWithHats #58",
-  "color": "Grey"
+  "color": "BrightBrown"
 },
 "59": {
   "name": "HorseWithHats #59",
-  "color": "Brown"
+  "color": "Black"
 },
 "60": {
   "name": "HorseWithHats #60",
-  "color": "Brown"
+  "color": "Grey"
 },
 "61": {
   "name": "HorseWithHats #61",
-  "color": "Black"
+  "color": "Grey"
 },
 "62": {
   "name": "HorseWithHats #62",
-  "color": "Black"
+  "color": "BrightBrown"
 },
 "63": {
   "name": "HorseWithHats #63",
-  "color": "Black"
+  "color": "White"
 },
 "64": {
   "name": "HorseWithHats #64",
-  "color": "White"
+  "color": "BrightBrown"
 },
 "65": {
   "name": "HorseWithHats #65",
-  "color": "White"
+  "color": "Black"
 },
 "66": {
   "name": "HorseWithHats #66",
@@ -269,7 +269,7 @@ module.exports = {
 },
 "67": {
   "name": "HorseWithHats #67",
-  "color": "Grey"
+  "color": "Brown"
 },
 "68": {
   "name": "HorseWithHats #68",
@@ -277,7 +277,7 @@ module.exports = {
 },
 "69": {
   "name": "HorseWithHats #69",
-  "color": "Brown"
+  "color": "Grey"
 },
 "70": {
   "name": "HorseWithHats #70",
@@ -285,15 +285,15 @@ module.exports = {
 },
 "71": {
   "name": "HorseWithHats #71",
-  "color": "BrightBrown"
+  "color": "White"
 },
 "72": {
   "name": "HorseWithHats #72",
-  "color": "BrightBrown"
+  "color": "Black"
 },
 "73": {
   "name": "HorseWithHats #73",
-  "color": "BrightBrown"
+  "color": "White"
 },
 "74": {
   "name": "HorseWithHats #74",
@@ -301,15 +301,15 @@ module.exports = {
 },
 "75": {
   "name": "HorseWithHats #75",
-  "color": "Brown"
+  "color": "White"
 },
 "76": {
   "name": "HorseWithHats #76",
-  "color": "Brown"
+  "color": "Grey"
 },
 "77": {
   "name": "HorseWithHats #77",
-  "color": "Black"
+  "color": "White"
 },
 "78": {
   "name": "HorseWithHats #78",
@@ -317,23 +317,23 @@ module.exports = {
 },
 "79": {
   "name": "HorseWithHats #79",
-  "color": "Brown"
+  "color": "White"
 },
 "80": {
   "name": "HorseWithHats #80",
-  "color": "Brown"
+  "color": "Black"
 },
 "81": {
   "name": "HorseWithHats #81",
-  "color": "Grey"
+  "color": "Black"
 },
 "82": {
   "name": "HorseWithHats #82",
-  "color": "BrightBrown"
+  "color": "White"
 },
 "83": {
   "name": "HorseWithHats #83",
-  "color": "BrightBrown"
+  "color": "Brown"
 },
 "84": {
   "name": "HorseWithHats #84",
@@ -345,15 +345,15 @@ module.exports = {
 },
 "86": {
   "name": "HorseWithHats #86",
-  "color": "Grey"
+  "color": "White"
 },
 "87": {
   "name": "HorseWithHats #87",
-  "color": "BrightBrown"
+  "color": "Brown"
 },
 "88": {
   "name": "HorseWithHats #88",
-  "color": "Brown"
+  "color": "Grey"
 },
 "89": {
   "name": "HorseWithHats #89",
@@ -361,23 +361,23 @@ module.exports = {
 },
 "90": {
   "name": "HorseWithHats #90",
-  "color": "White"
+  "color": "BrightBrown"
 },
 "91": {
   "name": "HorseWithHats #91",
-  "color": "Brown"
+  "color": "Grey"
 },
 "92": {
   "name": "HorseWithHats #92",
-  "color": "Grey"
+  "color": "White"
 },
 "93": {
   "name": "HorseWithHats #93",
-  "color": "Grey"
+  "color": "Brown"
 },
 "94": {
   "name": "HorseWithHats #94",
-  "color": "White"
+  "color": "Black"
 },
 "95": {
   "name": "HorseWithHats #95",
@@ -385,15 +385,15 @@ module.exports = {
 },
 "96": {
   "name": "HorseWithHats #96",
-  "color": "Black"
+  "color": "White"
 },
 "97": {
   "name": "HorseWithHats #97",
-  "color": "Grey"
+  "color": "Brown"
 },
 "98": {
   "name": "HorseWithHats #98",
-  "color": "Grey"
+  "color": "White"
 },
 "99": {
   "name": "HorseWithHats #99",
@@ -413,11 +413,11 @@ module.exports = {
 },
 "103": {
   "name": "HorseWithHats #103",
-  "color": "White"
+  "color": "BrightBrown"
 },
 "104": {
   "name": "HorseWithHats #104",
-  "color": "BrightBrown"
+  "color": "Grey"
 },
 "105": {
   "name": "HorseWithHats #105",
@@ -425,11 +425,11 @@ module.exports = {
 },
 "106": {
   "name": "HorseWithHats #106",
-  "color": "Black"
+  "color": "Brown"
 },
 "107": {
   "name": "HorseWithHats #107",
-  "color": "Grey"
+  "color": "Brown"
 },
 "108": {
   "name": "HorseWithHats #108",
@@ -437,11 +437,11 @@ module.exports = {
 },
 "109": {
   "name": "HorseWithHats #109",
-  "color": "White"
+  "color": "BrightBrown"
 },
 "110": {
   "name": "HorseWithHats #110",
-  "color": "White"
+  "color": "Grey"
 },
 "111": {
   "name": "HorseWithHats #111",
@@ -449,23 +449,23 @@ module.exports = {
 },
 "112": {
   "name": "HorseWithHats #112",
-  "color": "BrightBrown"
+  "color": "Grey"
 },
 "113": {
   "name": "HorseWithHats #113",
-  "color": "Brown"
+  "color": "Black"
 },
 "114": {
   "name": "HorseWithHats #114",
-  "color": "Grey"
+  "color": "Black"
 },
 "115": {
   "name": "HorseWithHats #115",
-  "color": "Brown"
+  "color": "Black"
 },
 "116": {
   "name": "HorseWithHats #116",
-  "color": "White"
+  "color": "Black"
 },
 "117": {
   "name": "HorseWithHats #117",
@@ -473,11 +473,11 @@ module.exports = {
 },
 "118": {
   "name": "HorseWithHats #118",
-  "color": "White"
+  "color": "Brown"
 },
 "119": {
   "name": "HorseWithHats #119",
-  "color": "White"
+  "color": "BrightBrown"
 },
 "120": {
   "name": "HorseWithHats #120",
@@ -485,19 +485,19 @@ module.exports = {
 },
 "121": {
   "name": "HorseWithHats #121",
-  "color": "Black"
+  "color": "Brown"
 },
 "122": {
   "name": "HorseWithHats #122",
-  "color": "Grey"
+  "color": "Brown"
 },
 "123": {
   "name": "HorseWithHats #123",
-  "color": "Grey"
+  "color": "White"
 },
 "124": {
   "name": "HorseWithHats #124",
-  "color": "Grey"
+  "color": "Brown"
 },
 "125": {
   "name": "HorseWithHats #125",
@@ -509,39 +509,39 @@ module.exports = {
 },
 "127": {
   "name": "HorseWithHats #127",
-  "color": "Brown"
+  "color": "Grey"
 },
 "128": {
   "name": "HorseWithHats #128",
-  "color": "Grey"
+  "color": "White"
 },
 "129": {
   "name": "HorseWithHats #129",
-  "color": "BrightBrown"
+  "color": "Brown"
 },
 "130": {
   "name": "HorseWithHats #130",
-  "color": "Black"
+  "color": "Brown"
 },
 "131": {
   "name": "HorseWithHats #131",
-  "color": "Grey"
+  "color": "Black"
 },
 "132": {
   "name": "HorseWithHats #132",
-  "color": "Black"
+  "color": "White"
 },
 "133": {
   "name": "HorseWithHats #133",
-  "color": "Black"
+  "color": "Brown"
 },
 "134": {
   "name": "HorseWithHats #134",
-  "color": "Grey"
+  "color": "White"
 },
 "135": {
   "name": "HorseWithHats #135",
-  "color": "Brown"
+  "color": "BrightBrown"
 },
 "136": {
   "name": "HorseWithHats #136",
@@ -549,19 +549,19 @@ module.exports = {
 },
 "137": {
   "name": "HorseWithHats #137",
-  "color": "Brown"
+  "color": "White"
 },
 "138": {
   "name": "HorseWithHats #138",
-  "color": "BrightBrown"
+  "color": "White"
 },
 "139": {
   "name": "HorseWithHats #139",
-  "color": "Black"
+  "color": "BrightBrown"
 },
 "140": {
   "name": "HorseWithHats #140",
-  "color": "White"
+  "color": "Black"
 },
 "141": {
   "name": "HorseWithHats #141",
@@ -569,27 +569,27 @@ module.exports = {
 },
 "142": {
   "name": "HorseWithHats #142",
-  "color": "Grey"
+  "color": "Brown"
 },
 "143": {
   "name": "HorseWithHats #143",
-  "color": "Brown"
+  "color": "White"
 },
 "144": {
   "name": "HorseWithHats #144",
-  "color": "BrightBrown"
+  "color": "White"
 },
 "145": {
   "name": "HorseWithHats #145",
-  "color": "Black"
+  "color": "Grey"
 },
 "146": {
   "name": "HorseWithHats #146",
-  "color": "White"
+  "color": "Black"
 },
 "147": {
   "name": "HorseWithHats #147",
-  "color": "Grey"
+  "color": "BrightBrown"
 },
 "148": {
   "name": "HorseWithHats #148",
@@ -597,7 +597,7 @@ module.exports = {
 },
 "149": {
   "name": "HorseWithHats #149",
-  "color": "Grey"
+  "color": "White"
 },
 "150": {
   "name": "HorseWithHats #150",
@@ -605,23 +605,23 @@ module.exports = {
 },
 "151": {
   "name": "HorseWithHats #151",
-  "color": "White"
+  "color": "BrightBrown"
 },
 "152": {
   "name": "HorseWithHats #152",
-  "color": "Brown"
+  "color": "Black"
 },
 "153": {
   "name": "HorseWithHats #153",
-  "color": "Black"
+  "color": "Brown"
 },
 "154": {
   "name": "HorseWithHats #154",
-  "color": "BrightBrown"
+  "color": "Black"
 },
 "155": {
   "name": "HorseWithHats #155",
-  "color": "Brown"
+  "color": "White"
 },
 "156": {
   "name": "HorseWithHats #156",
@@ -629,7 +629,7 @@ module.exports = {
 },
 "157": {
   "name": "HorseWithHats #157",
-  "color": "Brown"
+  "color": "White"
 },
 "158": {
   "name": "HorseWithHats #158",
@@ -637,11 +637,11 @@ module.exports = {
 },
 "159": {
   "name": "HorseWithHats #159",
-  "color": "BrightBrown"
+  "color": "Brown"
 },
 "160": {
   "name": "HorseWithHats #160",
-  "color": "BrightBrown"
+  "color": "Black"
 },
 "161": {
   "name": "HorseWithHats #161",
@@ -649,11 +649,11 @@ module.exports = {
 },
 "162": {
   "name": "HorseWithHats #162",
-  "color": "Grey"
+  "color": "Brown"
 },
 "163": {
   "name": "HorseWithHats #163",
-  "color": "BrightBrown"
+  "color": "Grey"
 },
 "164": {
   "name": "HorseWithHats #164",
@@ -661,31 +661,31 @@ module.exports = {
 },
 "165": {
   "name": "HorseWithHats #165",
-  "color": "BrightBrown"
+  "color": "Brown"
 },
 "166": {
   "name": "HorseWithHats #166",
-  "color": "Brown"
+  "color": "BrightBrown"
 },
 "167": {
   "name": "HorseWithHats #167",
-  "color": "Grey"
+  "color": "Brown"
 },
 "168": {
   "name": "HorseWithHats #168",
-  "color": "White"
+  "color": "Black"
 },
 "169": {
   "name": "HorseWithHats #169",
-  "color": "Brown"
+  "color": "White"
 },
 "170": {
   "name": "HorseWithHats #170",
-  "color": "Grey"
+  "color": "White"
 },
 "171": {
   "name": "HorseWithHats #171",
-  "color": "Grey"
+  "color": "Black"
 },
 "172": {
   "name": "HorseWithHats #172",
@@ -693,11 +693,11 @@ module.exports = {
 },
 "173": {
   "name": "HorseWithHats #173",
-  "color": "Grey"
+  "color": "Brown"
 },
 "174": {
   "name": "HorseWithHats #174",
-  "color": "White"
+  "color": "Brown"
 },
 "175": {
   "name": "HorseWithHats #175",
@@ -705,99 +705,99 @@ module.exports = {
 },
 "176": {
   "name": "HorseWithHats #176",
-  "color": "White"
+  "color": "BrightBrown"
 },
 "177": {
   "name": "HorseWithHats #177",
-  "color": "BrightBrown"
+  "color": "Brown"
 },
 "178": {
   "name": "HorseWithHats #178",
-  "color": "Brown"
+  "color": "White"
 },
 "179": {
   "name": "HorseWithHats #179",
-  "color": "Black"
+  "color": "Brown"
 },
 "180": {
   "name": "HorseWithHats #180",
-  "color": "Brown"
+  "color": "Grey"
 },
 "181": {
   "name": "HorseWithHats #181",
-  "color": "BrightBrown"
+  "color": "Brown"
 },
 "182": {
   "name": "HorseWithHats #182",
-  "color": "Brown"
+  "color": "Black"
 },
 "183": {
   "name": "HorseWithHats #183",
-  "color": "BrightBrown"
+  "color": "Grey"
 },
 "184": {
   "name": "HorseWithHats #184",
-  "color": "Grey"
+  "color": "Brown"
 },
 "185": {
   "name": "HorseWithHats #185",
-  "color": "Black"
+  "color": "Brown"
 },
 "186": {
   "name": "HorseWithHats #186",
-  "color": "Brown"
+  "color": "Black"
 },
 "187": {
   "name": "HorseWithHats #187",
-  "color": "Grey"
+  "color": "Brown"
 },
 "188": {
   "name": "HorseWithHats #188",
-  "color": "BrightBrown"
+  "color": "Grey"
 },
 "189": {
   "name": "HorseWithHats #189",
-  "color": "Grey"
+  "color": "Brown"
 },
 "190": {
   "name": "HorseWithHats #190",
-  "color": "BrightBrown"
+  "color": "Brown"
 },
 "191": {
   "name": "HorseWithHats #191",
-  "color": "Black"
+  "color": "Brown"
 },
 "192": {
   "name": "HorseWithHats #192",
-  "color": "White"
+  "color": "Grey"
 },
 "193": {
   "name": "HorseWithHats #193",
-  "color": "Black"
+  "color": "Grey"
 },
 "194": {
   "name": "HorseWithHats #194",
-  "color": "Grey"
+  "color": "Brown"
 },
 "195": {
   "name": "HorseWithHats #195",
-  "color": "Black"
+  "color": "Grey"
 },
 "196": {
   "name": "HorseWithHats #196",
-  "color": "White"
+  "color": "Brown"
 },
 "197": {
   "name": "HorseWithHats #197",
-  "color": "White"
+  "color": "Black"
 },
 "198": {
   "name": "HorseWithHats #198",
-  "color": "Brown"
+  "color": "BrightBrown"
 },
 "199": {
   "name": "HorseWithHats #199",
-  "color": "Black"
+  "color": "White"
 },
 "200": {
   "name": "HorseWithHats #200",
@@ -809,27 +809,27 @@ module.exports = {
 },
 "202": {
   "name": "HorseWithHats #202",
-  "color": "White"
+  "color": "BrightBrown"
 },
 "203": {
   "name": "HorseWithHats #203",
-  "color": "Black"
+  "color": "Grey"
 },
 "204": {
   "name": "HorseWithHats #204",
-  "color": "White"
+  "color": "Brown"
 },
 "205": {
   "name": "HorseWithHats #205",
-  "color": "BrightBrown"
+  "color": "Grey"
 },
 "206": {
   "name": "HorseWithHats #206",
-  "color": "Brown"
+  "color": "Grey"
 },
 "207": {
   "name": "HorseWithHats #207",
-  "color": "Grey"
+  "color": "Brown"
 },
 "208": {
   "name": "HorseWithHats #208",
@@ -845,11 +845,11 @@ module.exports = {
 },
 "211": {
   "name": "HorseWithHats #211",
-  "color": "BrightBrown"
+  "color": "Brown"
 },
 "212": {
   "name": "HorseWithHats #212",
-  "color": "Black"
+  "color": "Brown"
 },
 "213": {
   "name": "HorseWithHats #213",
@@ -857,55 +857,55 @@ module.exports = {
 },
 "214": {
   "name": "HorseWithHats #214",
-  "color": "White"
+  "color": "Grey"
 },
 "215": {
   "name": "HorseWithHats #215",
-  "color": "Grey"
+  "color": "Black"
 },
 "216": {
   "name": "HorseWithHats #216",
-  "color": "Black"
+  "color": "White"
 },
 "217": {
   "name": "HorseWithHats #217",
-  "color": "Grey"
+  "color": "White"
 },
 "218": {
   "name": "HorseWithHats #218",
-  "color": "Grey"
+  "color": "Black"
 },
 "219": {
   "name": "HorseWithHats #219",
-  "color": "Grey"
+  "color": "Brown"
 },
 "220": {
   "name": "HorseWithHats #220",
-  "color": "White"
+  "color": "Grey"
 },
 "221": {
   "name": "HorseWithHats #221",
-  "color": "BrightBrown"
+  "color": "Brown"
 },
 "222": {
   "name": "HorseWithHats #222",
-  "color": "Black"
+  "color": "Brown"
 },
 "223": {
   "name": "HorseWithHats #223",
-  "color": "Black"
+  "color": "BrightBrown"
 },
 "224": {
   "name": "HorseWithHats #224",
-  "color": "BrightBrown"
+  "color": "Brown"
 },
 "225": {
   "name": "HorseWithHats #225",
-  "color": "Grey"
+  "color": "White"
 },
 "226": {
   "name": "HorseWithHats #226",
-  "color": "Black"
+  "color": "White"
 },
 "227": {
   "name": "HorseWithHats #227",
@@ -913,19 +913,19 @@ module.exports = {
 },
 "228": {
   "name": "HorseWithHats #228",
-  "color": "Black"
+  "color": "BrightBrown"
 },
 "229": {
   "name": "HorseWithHats #229",
-  "color": "White"
+  "color": "Grey"
 },
 "230": {
   "name": "HorseWithHats #230",
-  "color": "BrightBrown"
+  "color": "Grey"
 },
 "231": {
   "name": "HorseWithHats #231",
-  "color": "White"
+  "color": "Black"
 },
 "232": {
   "name": "HorseWithHats #232",
@@ -933,55 +933,55 @@ module.exports = {
 },
 "233": {
   "name": "HorseWithHats #233",
-  "color": "Brown"
+  "color": "BrightBrown"
 },
 "234": {
   "name": "HorseWithHats #234",
-  "color": "Black"
+  "color": "Brown"
 },
 "235": {
   "name": "HorseWithHats #235",
-  "color": "BrightBrown"
+  "color": "Black"
 },
 "236": {
   "name": "HorseWithHats #236",
-  "color": "Grey"
+  "color": "Brown"
 },
 "237": {
   "name": "HorseWithHats #237",
-  "color": "White"
+  "color": "Grey"
 },
 "238": {
   "name": "HorseWithHats #238",
-  "color": "Brown"
+  "color": "BrightBrown"
 },
 "239": {
   "name": "HorseWithHats #239",
-  "color": "White"
+  "color": "Grey"
 },
 "240": {
   "name": "HorseWithHats #240",
-  "color": "Black"
+  "color": "BrightBrown"
 },
 "241": {
   "name": "HorseWithHats #241",
-  "color": "BrightBrown"
+  "color": "Brown"
 },
 "242": {
   "name": "HorseWithHats #242",
-  "color": "Brown"
+  "color": "White"
 },
 "243": {
   "name": "HorseWithHats #243",
-  "color": "White"
+  "color": "Black"
 },
 "244": {
   "name": "HorseWithHats #244",
-  "color": "White"
+  "color": "Grey"
 },
 "245": {
   "name": "HorseWithHats #245",
-  "color": "Brown"
+  "color": "BrightBrown"
 },
 "246": {
   "name": "HorseWithHats #246",
@@ -997,15 +997,15 @@ module.exports = {
 },
 "249": {
   "name": "HorseWithHats #249",
-  "color": "White"
+  "color": "BrightBrown"
 },
 "250": {
   "name": "HorseWithHats #250",
-  "color": "Brown"
+  "color": "Grey"
 },
 "251": {
   "name": "HorseWithHats #251",
-  "color": "Grey"
+  "color": "Black"
 },
 "252": {
   "name": "HorseWithHats #252",
@@ -1013,14 +1013,14 @@ module.exports = {
 },
 "253": {
   "name": "HorseWithHats #253",
-  "color": "Brown"
+  "color": "Black"
 },
 "254": {
   "name": "HorseWithHats #254",
-  "color": "Black"
+  "color": "Grey"
 },
 "255": {
   "name": "HorseWithHats #255",
-  "color": "Black"
+  "color": "Grey"
 }
 }
