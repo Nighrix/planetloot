@@ -25,13 +25,13 @@ app.get('/api/token/:token_id', function(req, res) {
   //const day = parseInt(bdayParts[1])
   //const month = parseInt(bdayParts[0])
   
-  var imageText = 'image';
+  var imageText = 'images';
       if(tokenId < 1000) {
-        imageText = 'image';
+        imageText = 'images';
       } else if(tokenId < 2000){
-        imageText = 'image2';
+        imageText = 'images2';
       } else {
-        imageText = 'image3';
+        imageText = 'images3';
       }
   
   
