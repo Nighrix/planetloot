@@ -32,7 +32,13 @@ app.get('/api/token/:token_id', function(req, res) {
      // 'zodiac sign': zodiac(day, month),
        //'age': moment().diff(person.birthday, 'years')
      },           //images/
-    'image': `${HOST}/images/${tokenId}.png`
+    if(tokenId < 1000) {
+      'image': `${HOST}/images/${tokenId}.png`
+    } else if(tokenId < 2000){
+      'image': `${HOST}/images2/${tokenId}.png`
+    } else {
+      'image': `${HOST}/images3/${tokenId}.png`
+    }
   }
   res.send(data)
 })
