@@ -25,7 +25,7 @@ app.get('/api/token/:token_id', function(req, res) {
   //const day = parseInt(bdayParts[1])
   //const month = parseInt(bdayParts[0])
   
-  var imageText = '';
+  var imageText = 'image';
     //  if(tokenId < 1000) {
    //   'image': `${HOST}/images/${tokenId}.png`
    // } else if(tokenId < 2000){
