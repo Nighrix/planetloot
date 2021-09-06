@@ -24,15 +24,29 @@ app.get('/api/token/:token_id', function(req, res) {
   //const bdayParts = person.birthday.split(' ')
   //const day = parseInt(bdayParts[1])
   //const month = parseInt(bdayParts[0])
+  
+  var imageText = 'images';
+      if(tokenId < 1000) {
+        imageText = 'images';
+      } else if(tokenId < 2000){
+        imageText = 'images2';
+      } else {
+        imageText = 'images3';
+      }
+  
+  
   const data = {
     'name': person.name,
     'attributes': {
      'color': person.color,
+     //'hat': person.hattype,
      // 'birth month': monthName(month),
      // 'zodiac sign': zodiac(day, month),
        //'age': moment().diff(person.birthday, 'years')
      },           //images/
-    'image': `${HOST}/images/${tokenId}.png`
+
+     'image': `${HOST}/${imageText}/${tokenId}.png`
+
   }
   res.send(data)
 })
