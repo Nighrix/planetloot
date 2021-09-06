@@ -26,13 +26,14 @@ app.get('/api/token/:token_id', function(req, res) {
   //const month = parseInt(bdayParts[0])
   
   var imageText = 'image';
-    //  if(tokenId < 1000) {
-   //   'image': `${HOST}/images/${tokenId}.png`
-   // } else if(tokenId < 2000){
-   //   'image': `${HOST}/images2/${tokenId}.png`
-   // } else {
-   //   'image': `${HOST}/images3/${tokenId}.png`
-  //  }
+      if(tokenId < 1000) {
+        imageText = 'image';
+      } else if(tokenId < 2000){
+        imageText = 'image2';
+      } else {
+        imageText = 'image3';
+      }
+  
   
   const data = {
     'name': person.name,
