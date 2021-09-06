@@ -24,6 +24,9 @@ app.get('/api/token/:token_id', function(req, res) {
   //const bdayParts = person.birthday.split(' ')
   //const day = parseInt(bdayParts[1])
   //const month = parseInt(bdayParts[0])
+  
+  
+  
   const data = {
     'name': person.name,
     'attributes': {
