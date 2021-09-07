@@ -45,7 +45,7 @@ app.get('/api/token/:token_id', function(req, res) {
     'name': person.name,
     'attributes': {
     // 'color': person.color,
-     'habitable': 'TEST',//person.habitable.split(' ')[0],
+     'habitable': person.habitable,
      // 'birth month': monthName(month),
      // 'zodiac sign': zodiac(day, month),
        //'age': moment().diff(person.birthday, 'years')
