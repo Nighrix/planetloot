@@ -30,8 +30,14 @@ app.get('/api/token/:token_id', function(req, res) {
         imageText = 'images';
       } else if(tokenId < 2000){
         imageText = 'images2';
-      } else {
+      } else if(tokenId < 3000){
         imageText = 'images3';
+      } else if(tokenId < 4000){
+        imageText = 'images4';
+      } else if(tokenId < 5000){
+        imageText = 'images5';
+      } else if(tokenId < 6000){
+        imageText = 'images6';
       }
   
   
